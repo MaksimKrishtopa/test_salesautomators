@@ -1,1 +1,3 @@
-# test_salesautomators
+# test_salesautomators - Приложение, реализующее интеграцию возможность работы с crm системой через сайт по API Pipedrvie
+
+Состояние - не закончено
